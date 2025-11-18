@@ -21,3 +21,7 @@ A base de dados foi coletado conforme instruções da pasta Entendendo o Desafio
 
 
 Podemos ver as Vendas de acordo com o que for seleciona no segmentador do Tipo de Compra ou do Tipo de Plano.
+
+## Imagem do Dashboard
+
+![App Screenshot](https://github.com/mjogasa/DIO-Bootcamp_Desafio_Dashboard/blob/1dc668d54912c5b6ecbc7bbf787be9d343c22d9c/Screenshot.png)
